@@ -1,0 +1,96 @@
+{
+	"eTag": "123456789",
+	"picklistFieldValues": {
+		"Role_s__c": {
+			"controllerValues": {},
+			"defaultValue": null,
+			"eTag": "123456789",
+			"url": "/services/data/v55.0/ui-api/object-info/Contact/picklist-values/012E0000000PRZEIA4/Role_s__c",
+			"values": [
+				{
+					"attributes": null,
+					"label": "Administrative Assistant",
+					"validFor": [],
+					"value": "Administrative Assistant"
+				},
+				{
+					"attributes": null,
+					"label": "Administrator",
+					"validFor": [],
+					"value": "Administrator"
+				}
+			]
+		},
+		"Salutation": {
+			"controllerValues": {},
+			"defaultValue": null,
+			"eTag": "123456789",
+			"url": "/services/data/v55.0/ui-api/object-info/Contact/picklist-values/012E0000000PRZEIA4/Salutation",
+			"values": [
+				{
+					"attributes": null,
+					"label": "Mr.",
+					"validFor": [],
+					"value": "Mr."
+				}
+			]
+		},
+		"Clinical_Specialties__c": {
+			"controllerValues": {},
+			"defaultValue": null,
+			"eTag": "123456789",
+			"url": "/services/data/v55.0/ui-api/object-info/Contact/picklist-values/012E0000000PRZEIA4/Salutation",
+			"values": [
+				{
+					"attributes": null,
+					"label": "Nuerology",
+					"validFor": [],
+					"value": "Nuerology"
+				}
+			]
+		},
+		"Non_Clinical_Specialties__c": {
+			"controllerValues": {},
+			"defaultValue": null,
+			"eTag": "123456789",
+			"url": "/services/data/v55.0/ui-api/object-info/Contact/picklist-values/012E0000000PRZEIA4/Salutation",
+			"values": [
+				{
+					"attributes": null,
+					"label": "Pediatric",
+					"validFor": [],
+					"value": "Pediatric"
+				}
+			]
+		},
+		"ContactCredentials__c": {
+			"controllerValues": {},
+			"defaultValue": null,
+			"eTag": "123456789",
+			"url": "/services/data/v55.0/ui-api/object-info/Contact/picklist-values/012E0000000PRZEIA4/Salutation",
+			"values": [
+				{
+					"attributes": null,
+					"label": "RN.",
+					"validFor": [],
+					"value": "RN"
+				}
+			]
+		},
+		"Department_s__c": {
+			"controllerValues": {},
+			"defaultValue": null,
+			"eTag": "123456789",
+			"url": "/services/data/v55.0/ui-api/object-info/Contact/picklist-values/012E0000000PRZEIA4/Salutation",
+			"values": [
+				{
+					"attributes": null,
+					"label": "CS",
+					"validFor": [],
+					"value": "CS"
+				}
+			]
+		}
+
+	}
+}
